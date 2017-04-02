@@ -63,5 +63,13 @@ var products = [
     "rating": 4.6,
     "description": "This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "categories": ["books"]
+  },
+  {
+    "id": 6,
+    "title": "Seventh Product",
+    "price": 99.99,
+    "rating": 5.0,
+    "description": "This is a short description. This product is water-- powerful wet stuff.",
+    "categories": ["software"]
   }
 ];
