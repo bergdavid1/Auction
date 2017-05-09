@@ -1,4 +1,5 @@
 import {Component} from '@angular/core';
+import {Product, ProductService} from "../../services/product-service";
 
 @Component({
   selector: 'auction-home-page',
